@@ -6,6 +6,10 @@ Structure contain levels, that look like fallout game.
 
 Each deeper/higher level will cost more.
 
+Only team have write/delete acces to structure. 
+
+Players from other teams, could see (with skill upgrades) other structure in radius, and with other skill upgrade, look inside them.
+
 
 ## levels
 
@@ -93,6 +97,9 @@ Facility is construction inside structure. Facility occupy one room. When destro
 * Rocket survey team room. Give 1 knowledge for each own/space agency rocket launched in 1km radius. Infinite radius upgrade +10%.
 * Rocket spy team room. Give 1 knowledge for each enemy rocket launched in 1km radius. Infinite radius upgrade +10%. 
 * Structure connector. Allow connect other structure, that have free connector at same level.
+* Local radar. Players could see 500m around structure on map. Infinite upgrades +100m.
+* Remote view. Players able to look into building and see what is there even if they are away.
+* 
 
 # Connection pipes.
 

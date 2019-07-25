@@ -7,8 +7,6 @@ Game about building and launching rockets with robots, to explore space.
 
 Mostly PVE with cooperation gameplay.
 
-Game to motivate people travel more in their cities (e.g. walk, by bike, etc).
-
 Player visit places on Earth and build structures. Then he connect structures together to convert raw resources to useful things.
 
 Similar android games: Resources, Color Planet, Ingress.
