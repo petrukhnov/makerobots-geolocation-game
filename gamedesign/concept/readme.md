@@ -11,6 +11,8 @@ Player visit places on Earth and build structures. Then he connect structures to
 
 Similar android games: Resources, Color Planet, Ingress.
 
+Game will not have any weapons and direct battles. It should be suitable for player 7+ years old. 
+
 [Screens](screens.md)
 
 ## Story
